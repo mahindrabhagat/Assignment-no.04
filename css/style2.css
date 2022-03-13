@@ -1,0 +1,111 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.brand
+{
+    width: 40%;
+    height: 152px;
+    display: flex;
+    background-color: blueviolet;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    border: 1px solid black;
+}
+.header-2
+{
+    width: 60%;
+    height: 150px;
+    display: inline;
+}
+.social
+{
+   height: 75px;
+   display: flex;
+   background-color: chocolate;
+   align-items: center;
+   justify-content: center;
+   font-weight: bolder;
+   border: 1px solid black;
+}
+.menu
+{
+   height: 75px;
+   display: flex;
+   background-color: crimson;
+   align-items: center;
+   justify-content: center;
+   font-weight: bolder;
+   border: 1px solid black;
+}
+.main
+{
+    width: 100%;
+    height: 300px;
+    background-color: goldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    font-weight: bolder;
+}
+.content
+{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.boot
+{
+   width: 25%;
+   background-color: brown;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border: 1px solid black;
+   font-weight: bolder;
+}
+.cloud
+{
+    width: 25%;
+    background-color: chocolate;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   border: 1px solid black;
+   font-weight: bolder;
+}
+.mach
+{
+    width: 25%;
+    background-color: chartreuse;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   border: 1px solid black;
+   font-weight: bolder;
+}
+.sys
+{
+    width: 25%;
+    background-color: rebeccapurple;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: bolder;
+   border: 1px solid black;
+}
+.footer
+{
+    width: 100%;
+    height: 100px;
+    background-color: fuchsia;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: bolder;
+   border: 1px solid black;
+}
